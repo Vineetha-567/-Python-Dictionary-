@@ -1,0 +1,74 @@
+{
+    "user": [
+        {
+            "Username": "vinny kol",
+            "Password": "Ab6@",
+            "Profile": {
+                "description": "job purpose",
+                "d_o_b": "10.2.2020",
+                "Gender": "female",
+                "Hobbies": "readingbooks"
+            }
+        },
+        {
+            "Username": "s",
+            "Password": "Rajitha@123",
+            "Profile": {
+                "description": "h",
+                "d_o_b": "szusch",
+                "Gender": "ugik",
+                "Hobbies": "usgk"
+            }
+        },
+        {
+            "Username": "vinwyhtgh kio",
+            "Password": "Ab@7k",
+            "Profile": {
+                "description": "hou",
+                "d_o_b": "10.2.2020",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        },
+        {
+            "Username": "vinny j",
+            "Password": "Ab@7k",
+            "Profile": {
+                "description": "job",
+                "d_o_b": "10.18.2000",
+                "Gender": "female",
+                "Hobbies": "sleeping"
+            }
+        },
+        {
+            "Username": "vin a",
+            "Password": "ADx@7ki",
+            "Profile": {
+                "description": "my name is vineetha",
+                "d_o_b": "31jan 1995",
+                "Gender": "female",
+                "Hobbies": "sleeping"
+            }
+        },
+        {
+            "Username": "joy",
+            "Password": "V@n7kl",
+            "Profile": {
+                "description": "hello",
+                "d_o_b": "31jan1995",
+                "Gender": "male",
+                "Hobbies": "read"
+            }
+        },
+        {
+            "Username": "joy",
+            "Password": "V@n4k",
+            "Profile": {
+                "description": "job",
+                "d_o_b": "12jan9999",
+                "Gender": "m",
+                "Hobbies": "read"
+            }
+        }
+    ]
+}
